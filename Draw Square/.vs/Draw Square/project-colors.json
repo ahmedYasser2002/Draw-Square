@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e790aa8c-043c-4491-b979-6608c5f5addf": {
+      "ProjectGuid": "e790aa8c-043c-4491-b979-6608c5f5addf",
+      "DisplayName": "Draw Square",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
